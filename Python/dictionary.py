@@ -1,0 +1,25 @@
+"""
+a={"name":"abc"}
+print(a)
+"""
+#---------------------
+"""
+a={
+    "name":"abc",
+    "age":"20",
+    "location":"chennai"
+    }
+print(a)
+"""
+#---------------------
+"""
+a={
+    "name":"abc",
+    "age":"20",
+    "location":"chennai"
+    }
+print(a.keys())
+print(a.values())
+"""
+#---------------------
+
